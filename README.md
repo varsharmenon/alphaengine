@@ -1,4 +1,4 @@
-# alphaengine
+# AlphaEngine
 
 > An AI-powered architect for the Nifty 500. I built this as a grade 12
 > project to teach myself how real software gets built — not how to
